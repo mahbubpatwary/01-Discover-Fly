@@ -152,9 +152,15 @@ color: gray;
 }
 .flex{
 display: flex ;
-margin: 50px auto;
+margin: 30px auto;
 justify-content : center;
 align-items : center;
+
+}
+.flex .btn{
+
+margin-top: 10px ;
+
 
 }
 

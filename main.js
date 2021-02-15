@@ -150,5 +150,29 @@ function handleBookNow(){
 
 
 
+     set("close").addEventListener("click",() =>{
+         
+         set("popup").style.display = "none";
+     
+     })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
